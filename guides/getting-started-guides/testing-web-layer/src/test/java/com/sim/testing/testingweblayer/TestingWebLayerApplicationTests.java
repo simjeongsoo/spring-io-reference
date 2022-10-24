@@ -9,6 +9,7 @@ class TestingWebLayerApplicationTests {
 
     @Test
     void contextLoads() {
+        //--Application Context를 시작할 수 없는 경우 실패하는 간단한 sanity check 테스트--//
     }
 
 }
